@@ -1,0 +1,5 @@
+location                 = "East US"
+admin_username           = "azureuser"
+admin_password           = "P@ssw0rd12345!"
+storage_account_tier     = "Standard"
+storage_replication_type = "LRS"
