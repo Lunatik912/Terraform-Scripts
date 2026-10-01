@@ -1,0 +1,7 @@
+location                 = "East US"
+admin_username           = "azureuser"
+admin_password           = "P@ssw0rd12345!"
+storage_account_tier     = "Standard"
+storage_replication_type = "LRS"
+tenant_id                = "YOUR_AZURE_TENANT_ID_HERE"
+sku_name                 = "standard"
