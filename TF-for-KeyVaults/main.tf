@@ -25,8 +25,4 @@ resource "azurerm_key_vault" "kv" {
       "Get", "List", "Create", "Delete", "Update"
     ]
   }
-
-  tags = {
-    environment = "development"
-  }
 }
