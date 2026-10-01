@@ -1,0 +1,4 @@
+[
+  "test_app.py::test_healthz_returns_200",
+  "test_app.py::test_index_reports_injected_config"
+]
